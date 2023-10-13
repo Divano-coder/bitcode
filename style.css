@@ -1,0 +1,98 @@
+html {
+  box-sizing: border-box;
+}
+
+*,
+*::after,
+*::before {
+  box-sizing: inherit;
+}
+
+body {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* COVER */
+
+.cover {
+  border: 10px solid black;
+  border-radius: 5%;
+  width: 80%;
+  height: 90%;
+  background-color: #63cae9;
+  position: relative;
+  z-index: 100;
+  overflow: hidden;
+}
+
+.top-bar {
+  width: 50%;
+  height: 10%;
+  border: 10px solid black;
+  border-radius: 30px;
+  position: absolute;
+  bottom: 90%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: #feae57;
+}
+
+/* TOP BAR CROSSES */
+
+.top-bar-crosses {
+  width: 90%;
+  height: 50px;
+  position: absolute;
+  top: 85%;
+  left: 50%;
+  transform: translate(-50%, -30%);
+  display: flex;
+  justify-content: space-between;
+}
+
+[class^="cross"] {
+  width: 15%;
+  height: 50px;
+  position: relative;
+}
+
+[class^="bar"] {
+  border: thin solid black;
+  background-color: black;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border-radius: 10px;
+}
+
+.bar-x {
+  width: 100%;
+  height: 10px;
+}
+
+.bar-y {
+  height: 100%;
+  width: 10px;
+}
+
+/* INPUT */
+
+.myInput {
+  border: 10px solid black;
+  border-radius: 5%;
+  width: 90%;
+  height: 65%;
+  position: absolute;
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%, -30%);
+  font-size: 20px;
+}
+
+.myInput:focus {
+  outline: none;
+}
