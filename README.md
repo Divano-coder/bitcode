@@ -1,6 +1,6 @@
 # bitcode
 
-A small app that help me to study syntaxis programming with anki app.
+A small app that helps me study syntax programming with the Anki app.
 
 ## Table of contents
 
@@ -9,7 +9,7 @@ A small app that help me to study syntaxis programming with anki app.
   - [Links](#links)
 - [My procces](#my-process)
   - [Build with](#build-with)
-  - [What I learned](#what-i-learned)
+  - [What's about it](#what-is-about-it)
   - [Continued development](#continued-development)
 - [Author](#author)
 
@@ -21,8 +21,8 @@ A small app that help me to study syntaxis programming with anki app.
 
 ### Links
 
-- Solution URL: [Repo]()
-- Live Site URL: [Git-hub pages]()
+- Solution URL: [Repo](https://github.com/Divano-coder/bitcode)
+- Live Site URL: [Git-hub pages](https://divano-coder.github.io/bitcode/)
 
 ## My process
 
@@ -32,17 +32,17 @@ A small app that help me to study syntaxis programming with anki app.
 - CSS custom properties
 - Flexbox
 
-### What I learned
+### What is about it
 
-This simple app help me to solve the little problem that when i writed the answer in a simple file .txt besides the anki screen, i needed a new white space to write the next answer and i lated much scrolling the page or erasing my last answer.
+This simple app helps me solve the small problem that, when I wrote the answer in a simple .txt file aside the Anki screen, I needed a new white space to write the next answer, and it took too long scrolling the page or erasing my last answer.
 
-That's because i develop this little app to help me for when a write one answer for anki question when i pass to the next one, i just push cltrl + enter y the answer is erased.
+That's because I developed this small app to help me. When I write an answer for an Anki question, as I move to the next one, I just press Ctrl + Enter, and the answer is erased.
 
-Now is very ease to me advance in my study.
+Now it's very easy for me to advance in my studies.
 
 ### Continued development
 
-I will continue very soon developing other kinds of apps, more complex and bigger every time, who help me to increase my experiance and capacity in this incredible tec world.
+I will continue developing other kinds of apps very soon, making them more complex and larger with each project. These apps will help me increase my experience and capacity in this incredible tech world.
 
 ## Author
 
