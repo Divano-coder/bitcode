@@ -79,7 +79,7 @@ body {
   width: 10px;
 }
 
-/* INPUT */
+/* INPUT TEXT */
 
 .myInput {
   border: 10px solid black;
@@ -91,6 +91,8 @@ body {
   left: 50%;
   transform: translate(-50%, -30%);
   font-size: 30px;
+  padding-top: 27%;
+  padding-left: 2%;
 }
 
 .myInput:focus {
