@@ -17,7 +17,7 @@ A small app that helps me study syntax programming with the Anki app.
 
 ### Screenshot
 
-![Screenshot of the app "bitcode"](./assets/bitcode.png)
+<img alt="Screenshot of the app bitcode" src="./assets/bitcode.png" width="30%">
 
 ### Links
 
